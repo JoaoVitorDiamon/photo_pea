@@ -1,0 +1,1 @@
+ALTER TABLE "Imagens" ALTER COLUMN "qrcode" DROP NOT NULL;

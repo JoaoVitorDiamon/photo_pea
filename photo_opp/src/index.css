@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+@theme {
+--font-family-titillium: 'Titillium Web', sans-serif;
+--color-button: #606060;
+--color-textFrame: ##393939;
+}
